@@ -36,7 +36,7 @@ This screenshot shows the PowerShell terminal where the troubleshooting script w
 
 
 
-![PowerShell Environment](Powershell-1.png)
+ ![Ping](before-ping.png)
 
 2️ Directory Listing
 
@@ -70,4 +70,5 @@ This screenshot shows system information collected by the script, including oper
 Upload screenshot: powershell-13.png
 
 ![System Information](screenshots/powershell-13.png)
+
 
