@@ -44,7 +44,7 @@ cd Documents
 
 This screenshot shows the PowerShell terminal where the script was executed.
 
-![PowerShell Environment](powershell-1.png)
+![PowerShell Environment](Powershell-1.png)
 
 ---
 
@@ -52,7 +52,7 @@ This screenshot shows the PowerShell terminal where the script was executed.
 
 This screenshot confirms that the troubleshooting script exists in the working directory.
 
-![Directory Listing](spowershell-2.png)
+![Directory Listing](Powershell-2.png)
 
 ---
 
@@ -60,7 +60,7 @@ This screenshot confirms that the troubleshooting script exists in the working d
 
 This output shows the files in the directory before running the script.
 
-![File Verification](powershell-3.png)
+![File Verification](Powershell-3.png)
 
 
 
@@ -68,7 +68,7 @@ This output shows the files in the directory before running the script.
 
 The script checks network connectivity by testing access to an external server.
 
-![Internet Connectivity Test](powershell-12.png)
+![Internet Connectivity Test](Powershell-12.png)
 
 
 
@@ -76,7 +76,7 @@ The script checks network connectivity by testing access to an external server.
 
 The script retrieves system information such as OS version, processor, and memory details.
 
-![System Information](powershell-13.png)
+![System Information](Powershell-13.png)
 
 
 
